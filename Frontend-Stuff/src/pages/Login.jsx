@@ -1,10 +1,22 @@
+import dynamic from 'next/dynamic'
 import React from 'react';
 import { Link } from 'react-router-dom';
+import VoxelDogLoader from '../components/Dog/voxel-dog-loader'
+import { Box, Container } from '@chakra-ui/react'
+
+const LazyVoxelDog = dynamic(() => import('../components/Dog/voxel-dog'), {
+  ssr: false,
+  loading: () => <VoxelDogLoader />
+})
 
 export default function Login() {
   return (
     <div className='grid grid-cols-1 sm:grid-cols-2 h-screen w-full'>
-        <div className='hidden sm:block'/>
+    <Box as="main" pb={8}>
+      <Container maxW="container.md" pt={14}>
+        <LazyVoxelDog />
+      </Container>
+    </Box>
 
         <div className='bg-gray-800 flex flex-col justify-center'>
             <form className='max-w-[400px] w-full mx-auto rounded-lg bg-gray-900 p-8 px-8'>
