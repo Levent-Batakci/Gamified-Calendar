@@ -20,6 +20,7 @@ The current tech stack list is provided below:
 - Back-End
   - Java
   - Springboot
+  - Junit
 - DevOps
   - Netlify
   - GitHub Actions
