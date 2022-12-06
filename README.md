@@ -26,7 +26,7 @@ The below table will help track various components of setting up this project.
 | Deployment             | Netlify                    | [Y](https://github.com/Northeastern-Electric-Racing/PM-Dashboard-v2/issues/1)  |    Y    |     |
 | Linting                | ESLint                     | Y  |    Y    |                   |
 | Formatting             | Prettier                   | Y  |    Y    | Y |
-| Testing                | Junit                       | Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues)  |    Y    | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30) |
+| Testing                | Junit                       | [Y](https://junit.org/junit5)  |    Y    | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30) |
 | Frontend Testing            | Jest                    | Y  |    Y    |  |
 | Database               | Springboot                 | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues)  |    Y    |                    [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30)                    | Y
 | ORM                    | Prisma                     | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues)  |    Y    |                    [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30)                    |
