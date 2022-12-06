@@ -11,10 +11,10 @@ All questions can be directed to  [`@VerySeriousHireableAccount`](https://github
 ## Getting Started
 
 Start by understanding what the project is [all about](https://github.com/Levent-Batakci/Gamified-Calendar/edit/main/README.md).
-Then go through either the [Onboarding](https://github.com/Levent-Batakci/Gamified-Calendar/edit/main/README.md) steps.
-And finally read through the [contributor guide](https://github.com/Levent-Batakci/Gamified-Calendar/edit/main/README.md).
+Then go through either the [Onboarding](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/UserGuide.md) steps.
+And finally read through the [contributor guide](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/ContributorGuide.md).
 
-If you're curious, check out the [product management](https://github.com/Levent-Batakci/Gamified-Calendar/edit/main/README.md) details.
+If you're curious, check out the [webapp demo](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/WebappDemo.md) details.
 
 ## Project Setup Checklist
 
