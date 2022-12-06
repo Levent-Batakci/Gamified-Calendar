@@ -24,24 +24,21 @@ The below table will help track various components of setting up this project.
 | :--------------------- | :------------------------- | :----------------------------------------------------------------------------: | :-----: | :----------------------------------------------------------------------------------------------------------------: |
 | Basic React App        | create-react-app           |                                       -                                        |    Y    | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/edit/main/README.md) |
 | Deployment             | Netlify                    | [Y](https://github.com/Northeastern-Electric-Racing/PM-Dashboard-v2/issues/1)  |    Y    |     |
-| Linting                | ESLint                     | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues)  |    Y    |                    [Y](https://github.com/Northeastern-Electric-Racing/PM-Dashboard-v2/pull/45)                    |
-| Formatting             | Prettier                   | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues)  |    Y    |                    [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30)                    |
-| Testing                | Jest                       | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues)  |    Y    | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30) |
-| e2e Testing            | Cypress                    | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues)  |    Y    |                                                                                                                    |
-| Component Testing      | React Testing Library      | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues) |    Y    | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30) |
-| Database               | PostgreSQL                 | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues)  |    Y    |                    [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30)                    |
+| Linting                | ESLint                     | Y  |    Y    |                   |
+| Formatting             | Prettier                   | Y  |    Y    | Y |
+| Testing                | Junit                       | Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues)  |    Y    | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30) |
+| Frontend Testing            | Jest                    | Y  |    Y    |  |
+| Database               | Springboot                 | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues)  |    Y    |                    [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30)                    | Y
 | ORM                    | Prisma                     | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues)  |    Y    |                    [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30)                    |
 | User Authentication    | react-google-login         | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues) |    Y    |                                                                                                                    |
 | State Management       | Redux                      | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues) |         |                                                                                                                    |
-| Charts                 | react-google-charts        | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues) |    Y    |                                                                                                                    |
+| Charts                 | [Syncfusion](https://www.syncfusion.com/downloads/react)        | Y |    Y    |  Y |
 | Styling                | Bootstrap, react-bootstrap | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues) |    Y    |                    [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30)                    |
-| Tables                 | react-bootstrap-table-next | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues) |    Y    |                    [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30)                    |
-| URL Routing            | React Router               | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues) |    Y    |                    [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30)                    |
-| Continuous Integration | GitHub Actions             | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues) |    Y    |                    [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30)                    |
-| Database Hosting       | AWS RDS                    | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues) |    Y    |                                                                                                                    |
-| Database Design        | -                          | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues) |    Y    |                                                                                                                    |
-| Backend Structure      | ?                          | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues) |    Y    |                    [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30)                    |
-| Front-End Structure    | -                          | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues) |    Y    |                    [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30)                    |
-| REST API Design        | OpenAPI Spec               | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues) |         |                                                                                                                    |
-| Front-End Docs         | ?                          | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues) |         |                                                                                                                    |
-| Component Sandboxing   | Storybook                  |                                                                                |         |                                                                                                                    |
+| Tables                 | [Syncfusion](https://www.syncfusion.com/downloads/react)        | Y |    Y    |  Y |              |
+| URL Routing            | React Router               | Y |    Y    | Y |
+| Continuous Integration | GitHub Actions             | Y |    Y    |   |
+| Database Hosting       | AWS RDS                    | Y |    Y    |   |
+| Database Design        | -                          | Y |    Y    |   |
+| Backend Structure      | ?                          | Y |    Y    |   |
+| Front-End Structure    | -                          | Y |    Y    | Y |
+| REST API Design        | OpenAPI Spec               | Y |         |   |
