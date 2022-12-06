@@ -15,7 +15,7 @@ The current tech stack list is provided below:
   - Jest
 - Front-End
   - React
-  - Bootstrap/[Tailwind] (https://tailwindcss.com/)
+  - Bootstrap/[Tailwind CSS](https://tailwindcss.com/)
   - Syncfusion
 - Back-End
   - Java
