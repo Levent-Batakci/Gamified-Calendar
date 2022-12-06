@@ -2,7 +2,7 @@ This repository is dedicated to the project for CSDS 393 (software engineering).
 # Gamified calendar
 
 A project management web application built in React.
-Read more [here](https://github.com/Levent-Batakci/Gamified-Calendar/edit/main/README.md).
+Read more [here](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/About.md).
 
 All questions can be directed to  [`@VerySeriousHireableAccount`](https://github.com/VerySeriousHireableAccount) 
 
