@@ -8,13 +8,11 @@ First, ensure that you have [Node.js](https://nodejs.org/en/) installed.
 
 Familiarize yourself with [common git commands](https://education.github.com/git-cheat-sheet-education.pdf), [CLI commands](https://www.w3schools.com/whatis/whatis_cli.asp), and [what Git is](https://www.atlassian.com/git/tutorials/what-is-git) if you aren't already.
 
-In your CLI, navigate to the folder for the project and run `npm install` to instruct [npm](https://www.npmjs.com/about) to install all neccessary packages.
-
 ## Database
 
 ### Installation
 
-The easiest way to install [Java](https://www.java.com/en/download/) 
+The only step to install [Java](https://www.java.com/en/download/) 
 
 ### Database Initialization
 
@@ -26,6 +24,8 @@ If you can not get it to run, either contact the team member or checkout [our vi
 ## IDE: VSCode
 
 ### Run and Test
+
+In your CLI, navigate to the folder for the project and run `npm install` to instruct [npm](https://www.npmjs.com/about) to install all neccessary packages.
 
 To test that things are working, run `npm run start` in the CLI and go to an example API route.
 Example: `localhost:8080/Accounts`.
