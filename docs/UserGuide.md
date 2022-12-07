@@ -19,7 +19,7 @@ The easiest way to install [Java](https://www.java.com/en/download/)
 ### Database Initialization
 
 ## Get react component to run
- [Syncfusion React Component Library\*](https://www.syncfusion.com/downloads/react) 
+ [Syncfusion React Component Library\](https://www.syncfusion.com/downloads/react) 
 
 **IMPORTANT NOTE:** You MUST create a trial account and download the web installer BEFORE attempting to run or install any of the packages. If not the program will not run.
 If you can not get it to run, either contact the team member or checkout [our video demo](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/WebappDemo.md)
