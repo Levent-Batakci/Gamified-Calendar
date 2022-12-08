@@ -5,11 +5,11 @@ This is a living document that will take the place of an official Product Requir
 
 ## Table of Contents
 
-- [Projects](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/Docs/Requirements.md#projects)
-- [Dashboard](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/Docs/Requirements.md#dashboard)
-- [To-do List](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/Docs/Requirements.md#to-do-list)
-- [Calendar](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/Docs/Requirements.md#calendar)
-- [Streak Line Graph](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/Docs/Requirements.md#streak-line-graph)
+- [Projects](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/Requirements.md#projects)
+- [Dashboard](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/Requirements.md#dashboard)
+- [To-do List](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/Requirements.md#to-do-list)
+- [Calendar](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/Requirements.md#calendar)
+- [Streak Line Graph](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/Requirements.md#streak-line-graph)
 - [Supported Platforms](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/Docs/Requirements.md#supported-platforms)
 
 ## Project
