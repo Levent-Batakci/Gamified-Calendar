@@ -1,7 +1,7 @@
 This repository is dedicated to the project for CSDS 393 (software engineering). The dev team is Levent, David, Jo, Smyan, and Dillon.
 # Gamified calendar
 
-A project management web application built in React.
+A productivity management web application built in React.
 Read more [here](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/About.md).
 
 All questions can be directed to  [`@VerySeriousHireableAccount`](https://github.com/VerySeriousHireableAccount) 
@@ -11,10 +11,11 @@ All questions can be directed to  [`@VerySeriousHireableAccount`](https://github
 ## Getting Started
 
 Start by understanding what the project is [all about](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/About.md).
-Then go through either the [Onboarding](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/UserGuide.md) steps.
-And finally read through the [contributor guide](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/ContributorGuide.md).
 
-If you're curious, check out the [webapp demo](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/WebappDemo.md) details.
+To try out the product, checkout the [user guide](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/UserGuide.md).
+And finally, if you want to contribute, read through the [contributor guide](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/ContributorGuide.md).
+
+If you're just curious or can't get the webapp to work, check out the [webapp demo](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/WebappDemo.md) details.
 
 ## Project Setup Checklist
 
