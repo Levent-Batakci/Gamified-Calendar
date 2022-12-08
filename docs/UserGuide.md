@@ -19,21 +19,17 @@ Example: `localhost:8080/Accounts`.
 
 ## Webapp
 
-### Get react component to run
+### Get react component to work
  [Syncfusion React Component Library\*](https://www.syncfusion.com/downloads/react) 
 
 **IMPORTANT NOTE:** You MUST create a trial account and download the web installer BEFORE attempting to run or install any of the packages. If not the program will not run.
 If you can not get it to run, either contact the team member or checkout [our video demo](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/WebappDemo.md)
 
-### Run and Test
+### Run the webapp
 
 In your CLI, navigate to the folder for the project and run `npm install` to instruct [npm](https://www.npmjs.com/about) to install all neccessary packages.
 
 To test that things are working, run `npm run start` in the CLI and the Webapp should popup on `localhost:3000` if port not occupied.
-
-Turn on `format on save` for Prettier.
-Go to `Code > Preferences > Settings` (or via `cmd ,` on Mac) (or `File > Preferences > Settings` for Windows).
-Search for `format on save` and make sure `Editor: Format On Save` is checked / yes.
 
 ## IDE: VSCode
 
@@ -43,6 +39,11 @@ Click "install" to easily install all of the below extensions.
 
 If for some reason you don't see this popup you can install them manually using the extensions button on the left sidebar.
 Below are the recommended extensions that you should install.
+
+If you use prettier,
+Turn on `format on save` for Prettier.
+Go to `Code > Preferences > Settings` (or via `cmd ,` on Mac) (or `File > Preferences > Settings` for Windows).
+Search for `format on save` and make sure `Editor: Format On Save` is checked / yes.
 
 - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) (`orta.vscode-jest`)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) (`esbenp.prettier-vscode`)
