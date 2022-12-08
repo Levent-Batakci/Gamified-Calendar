@@ -5,7 +5,7 @@ This is a living document that will take the place of an official Product Requir
 
 ## Table of Contents
 
-- [Projects](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/Requirements.md#project)
+- [Project](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/Requirements.md#project)
 - [Dashboard](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/Requirements.md#dashboard)
 - [To-do List](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/Requirements.md#to-do-list)
 - [Calendar](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/Requirements.md#calendar)
