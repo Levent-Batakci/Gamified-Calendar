@@ -14,7 +14,8 @@ Familiarize yourself with [common git commands](https://education.github.com/git
 
 The only step to install [Java](https://www.java.com/en/download/) 
 
-### Database Initialization
+To test that things are working, run `npm run start` in the CLI and go to an example API route.
+Example: `localhost:8080/Accounts`.
 
 ## Get react component to run
  [Syncfusion React Component Library\*](https://www.syncfusion.com/downloads/react) 
@@ -27,15 +28,7 @@ If you can not get it to run, either contact the team member or checkout [our vi
 
 In your CLI, navigate to the folder for the project and run `npm install` to instruct [npm](https://www.npmjs.com/about) to install all neccessary packages.
 
-To test that things are working, run `npm run start` in the CLI and go to an example API route.
-Example: `localhost:8080/Accounts`.
-
-Test again to ensure that the application launches correctly.
-
-
-**IMPORTANT NOTE:** We have a settings file in the project that will automatically configure all of these settings for you.
-If for some reason they don't work, come back here to do it manually.
-(the settings that should work are formatting on save and using prettier to format)
+To test that things are working, run `npm run start` in the CLI and the Webapp should popup on `localhost:3000` if port not occupied.
 
 Turn on `format on save` for Prettier.
 Go to `Code > Preferences > Settings` (or via `cmd ,` on Mac) (or `File > Preferences > Settings` for Windows).
