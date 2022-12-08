@@ -10,7 +10,7 @@ All questions can be directed to  [`@VerySeriousHireableAccount`](https://github
 
 ## Getting Started
 
-Start by understanding what the project is [all about](https://github.com/Levent-Batakci/Gamified-Calendar/edit/main/README.md).
+Start by understanding what the project is [all about](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/About.md).
 Then go through either the [Onboarding](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/UserGuide.md) steps.
 And finally read through the [contributor guide](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/ContributorGuide.md).
 
