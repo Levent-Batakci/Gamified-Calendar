@@ -24,7 +24,6 @@ Example: `localhost:8080/Accounts`.
 
 **IMPORTANT NOTE:** You MUST create a trial account and download the web installer BEFORE attempting to run or install any of the packages. If not the program will not run.
 If you can not get it to run, either contact the team member or checkout [our video demo](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/docs/WebappDemo.md)
-## IDE: VSCode
 
 ### Run and Test
 
@@ -36,8 +35,9 @@ Turn on `format on save` for Prettier.
 Go to `Code > Preferences > Settings` (or via `cmd ,` on Mac) (or `File > Preferences > Settings` for Windows).
 Search for `format on save` and make sure `Editor: Format On Save` is checked / yes.
 
-## VSCode Extensions
+## IDE: VSCode
 
+### VSCode Extensions
 When you launch the project in VSCode, you should see a popup in the bottom right asking you to "install all recommendeded extensions".
 Click "install" to easily install all of the below extensions.
 
