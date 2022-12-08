@@ -6,37 +6,57 @@ This is a living document that will take the place of an official Product Requir
 ## Table of Contents
 
 - [Projects](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/Docs/Requirements.md#projects)
-- [Work Packages](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/Docs/Requirements.md#work-packages)
-- [Change Requests](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/Docs/Requirements.md#change-requests)
-- [Other](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/Docs/Requirements.md#other)
-  - [Supported Platforms](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/Docs/Requirements.md#supported-platforms)
+- [Dashboard](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/Docs/Requirements.md#dashboard)
+- [To-do List](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/Docs/Requirements.md#to-do-list)
+- [Calendar](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/Docs/Requirements.md#calendar)
+- [Streak Line Graph](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/Docs/Requirements.md#streak-line-graph)
+- [Supported Platforms](https://github.com/Levent-Batakci/Gamified-Calendar/blob/main/Docs/Requirements.md#supported-platforms)
 
-## Projects
+## Project
 
-Section on features related to projects.
+Section on features related to the overall project.
 
-- The software shall allow users to view a list of all the projects.
-- The software shall allow users to view a single project.
-  - The software shall allow users to view a list of the work packages for the project.
+- The software shall allow help users boosting their productivity.
+- The software shall allow users to view a list of all the to-do items.
+- The software shall allow users to view a single to-do item.
+- The software shall allow users to view their streak of how much % of work they have done.
+- The software shall allow users to add their new tasks and display it on both calendar and to-do list
+- The software shall allow users easily navigate between functional pages through a shared nav bar.
+- The software shall allow users to log in and log out through a shared nav bar.
 
-## Work Packages
+## Dashboard
 
-Section on features related to work packages.
+Section on features related to the main dashboard.
 
-- The software shall allow users to view a single work package.
+- The dashboard shall allow users to view a list of tasks with the closest upcoming deadlines.
+- The dashboard shall allow users to view a quick summary of their streak with line graphs.
+- The dashboard shall allow users to view a list of tasks with the closest upcoming deadlines.
+- The dashboard shall allow users to view a list of articles with inspirational content for productivity.
 
-## Change Requests
+## To-do List
 
-Section on features related to change requests.
+Section on features related to the to-do list.
 
-- The software shall allow users to view a list of all the change requests.
-- The software shall allow users to view a single change request.
+- The to-do list shall allow users to view a list of all the current tasks based on categories.
+- The to-do list shall allow users to view a task in more detail.
+- The to-do list shall allow users to add a new task with lots of details.
+- The to-do list shall allow users to modify or delete existing task or its details.
 
-## Other
+## Calendar
 
-Section for other features and topics.
+Section on features related to the calendar.
 
-- The software shall allow users to log in and log out.
+- The calendar shall allow users to view a list of all the current tasks based on categories.
+- The calendar shall allow users to view a task in more detail.
+- The calendar shall allow users to add a new task with lots of details.
+- The calendar shall allow users to modify or delete existing task or its details.
+
+## Streak line-graph
+
+Section on features related to the streak line-graph.
+
+- The streak line-graph shall allow users to how much percentage of task they get done within recent weeks.
+- The streak line-graph shall allow users to have a sense of how much they have improved over time.
 
 ### Supported Platforms
 
