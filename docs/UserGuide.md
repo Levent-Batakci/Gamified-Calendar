@@ -17,7 +17,9 @@ The only step to install [Java](https://www.java.com/en/download/)
 To test that things are working, run `npm run start` in the CLI and go to an example API route.
 Example: `localhost:8080/Accounts`.
 
-## Get react component to run
+## Webapp
+
+### Get react component to run
  [Syncfusion React Component Library\*](https://www.syncfusion.com/downloads/react) 
 
 **IMPORTANT NOTE:** You MUST create a trial account and download the web installer BEFORE attempting to run or install any of the packages. If not the program will not run.
@@ -34,7 +36,7 @@ Turn on `format on save` for Prettier.
 Go to `Code > Preferences > Settings` (or via `cmd ,` on Mac) (or `File > Preferences > Settings` for Windows).
 Search for `format on save` and make sure `Editor: Format On Save` is checked / yes.
 
-### VSCode Extensions
+## VSCode Extensions
 
 When you launch the project in VSCode, you should see a popup in the bottom right asking you to "install all recommendeded extensions".
 Click "install" to easily install all of the below extensions.
