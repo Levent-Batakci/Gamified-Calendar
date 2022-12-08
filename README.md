@@ -28,8 +28,7 @@ The below table will help track various components of setting up this project.
 | Formatting             | Prettier                   | Y  |    Y    | Y |
 | Testing                | Junit                       | [Y](https://junit.org/junit5)  |    Y    | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30) |
 | Frontend Testing            | Jest                    | Y  |    Y    |  |
-| Database               | Springboot                 | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues)  |    Y    |                    [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30)                    | Y
-| ORM                    | Prisma                     | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues)  |    Y    |                    [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30)                    |
+| Database               | Springboot                 | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues)  |    Y    |                    [Y](https://github.com/Levent-Batakci/Gamified-Calendar/pull/30)                    | Y |
 | User Authentication    | react-google-login         | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues) |    Y    |                                                                                                                    |
 | State Management       | Redux                      | [Y](https://github.com/Levent-Batakci/Gamified-Calendar/issues) |         |                                                                                                                    |
 | Charts                 | [Syncfusion](https://www.syncfusion.com/downloads/react)        | Y |    Y    |  Y |
