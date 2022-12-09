@@ -12,7 +12,7 @@ Familiarize yourself with [common git commands](https://education.github.com/git
 
 ### Installation
 
-The only step to install [Java](https://www.java.com/en/download/) . The app is a Java Persistence API (JPA) type of application, so it can be used with all sorts of databases, but by default, it will use an H2 in-memory database. You can change the project configurations to switch to a database stored in non-volatile memory, however, such as PostgreSQL. If you choose to use H2, you don't need to change any settings or worry about database addresses.
+The only step to install [Java](https://www.java.com/en/download/) . The app is a Java Persistence API (JPA) type of application, so it can be used with all sorts of databases, but by default, it will use an H2 in-memory database. You can change the project configurations to switch to a database stored in non-volatile memory, however, such as PostgreSQL. If you choose to use H2, you don't need to change any settings or worry about database addresses. To run the backend, go to the `Backend-Stuff/gamifiedcalendar/gamifiedcalendar` directory and then run the command `./mvnw spring-boot:run`. You can connect to the backend via `localhost:8080`.
 
 To test that things are working, run `npm run start` in the CLI and go to an example API route.
 Example: `localhost:8080/Accounts`.
