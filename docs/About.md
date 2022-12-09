@@ -19,8 +19,10 @@ The current tech stack list is provided below:
   - Syncfusion
 - Back-End
   - Java
-  - Springboot
-  - Junit
+  - Spring Boot
+  - JUnit
+  - Maven
+  - JPA
 - DevOps
   - Netlify
   - GitHub Actions
